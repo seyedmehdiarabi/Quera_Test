@@ -5,9 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9fa43dcd-7cf6-49f9-814d-be2585aa4523" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/cartesian_coordinate_system.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/camera.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rigid_diet.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/a clock.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/clock.pdf" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,6 +37,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.camera.executor": "Run",
     "Python.cartesian_coordinate_system.executor": "Run",
     "Python.clock.executor": "Run",
     "Python.sadgan_khasteh.executor": "Run",
